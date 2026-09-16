@@ -53,3 +53,6 @@ dotnet test
 
 ## Scalar Reference
 
+<img width="1920" height="950" alt="{4F8934F2-55B3-4637-8BAA-CC0A8A5AFF8A}" src="https://github.com/user-attachments/assets/9291cb28-a896-4cd6-b393-197bcf552777" />
+
+<img width="1920" height="956" alt="{E6ACE551-978C-4631-AED1-9AE088DDC706}" src="https://github.com/user-attachments/assets/d98c9478-f5b9-4822-912c-ac80bd0b886e" />
