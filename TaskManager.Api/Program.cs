@@ -36,4 +36,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.MapControllers();
+app.MapOpenApi();
+
+app.MapScalarApiReference(options =>
+{
+    options.Title = "TaskManager API (Live)";
+});
+
+app.MapGet("/", () => "TaskManager API is running successfully on Render! 🚀");
+
 app.Run();
